@@ -1,0 +1,26 @@
+.details {
+  padding-bottom: 4rem;
+  font-size: 1.25rem;
+}
+
+.details li {
+  color: var(--white-color);
+  font-family: "PT Serif", serif;
+}
+
+@media only screen and (max-width: 576px) {
+  .why_choose-section-title {
+    font-size: 24px;
+  }
+
+  .details li {
+    font-size: 16px;
+  }
+  .details {
+    padding-bottom: 16px;
+  }
+
+  .img-why_chhose-section img {
+    padding-bottom:56px;
+  }
+}

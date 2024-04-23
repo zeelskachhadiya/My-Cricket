@@ -1,0 +1,8 @@
+.section-Title{
+    color: var(--primary-color);
+    font-size: 44px;
+    font-family: "PT Serif", serif;
+    color: var(--white-color);
+    font-width:bold;
+    padding-bottom: 1.25rem;
+}

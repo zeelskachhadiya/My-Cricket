@@ -1,0 +1,18 @@
+#footer{
+    background-color: var(--black-color);
+}
+
+img{
+    padding-bottom: 20px
+}
+
+#footer li{
+    list-style: none;
+    padding: 0 20px;
+    color: var(--white-color);  
+}
+
+p{
+    color: var(--white-color);
+    font-size: 16px;
+}

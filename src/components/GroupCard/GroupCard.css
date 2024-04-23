@@ -1,0 +1,22 @@
+.group_card {
+  position: relative;
+  border-radius: 0.5rem !important;
+}
+
+.group_card > p {
+  position: absolute;
+  bottom: 0;
+  padding: 8px;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  background-color: rgba(189, 255, 48, 0.7);
+  font-family: "PT Serif", serif;
+  font-size: 32px;
+  font-weight: bold;
+  opacity: 0;
+}
+
+.group_card:hover > p {
+  opacity: 1;
+}
